@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Credit Card Validator</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.example.creditcardvalidator</string>
+	<string>com.keurig.appent</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
